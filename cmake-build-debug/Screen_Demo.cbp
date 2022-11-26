@@ -128,9 +128,6 @@
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Core/Inc/stm32f4xx_it.h">
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
-		<Unit filename="E:/Creatives/STM32/Screen_Demo/Core/Inc/usart.h">
-			<Option target="Screen_Demo.elf"/>
-		</Unit>
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Core/Src/GFX_FUNCTIONS.c">
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
@@ -162,9 +159,6 @@
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Core/Src/system_stm32f4xx.c">
-			<Option target="Screen_Demo.elf"/>
-		</Unit>
-		<Unit filename="E:/Creatives/STM32/Screen_Demo/Core/Src/usart.c">
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Core/Startup/startup_stm32f411ceux.s">
@@ -311,9 +305,6 @@
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h">
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
-		<Unit filename="E:/Creatives/STM32/Screen_Demo/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h">
-			<Option target="Screen_Demo.elf"/>
-		</Unit>
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h">
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
@@ -336,9 +327,6 @@
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h">
-			<Option target="Screen_Demo.elf"/>
-		</Unit>
-		<Unit filename="E:/Creatives/STM32/Screen_Demo/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h">
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h">
@@ -402,9 +390,6 @@
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c">
-			<Option target="Screen_Demo.elf"/>
-		</Unit>
-		<Unit filename="E:/Creatives/STM32/Screen_Demo/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c">
 			<Option target="Screen_Demo.elf"/>
 		</Unit>
 		<Unit filename="E:/Creatives/STM32/Screen_Demo/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c">

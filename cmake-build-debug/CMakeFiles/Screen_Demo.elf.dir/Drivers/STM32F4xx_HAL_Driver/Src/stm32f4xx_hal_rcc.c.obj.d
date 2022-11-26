@@ -34,7 +34,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rc
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr_ex.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_spi.h \
- E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pcd.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_ll_usb.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pcd_ex.h

@@ -222,23 +222,9 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/system_stm32f4xx.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Screen_Demo.elf.dir/Core/Src/system_stm32f4xx.c.s"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Creatives\STM32\Screen_Demo\Core\Src\system_stm32f4xx.c -o CMakeFiles\Screen_Demo.elf.dir\Core\Src\system_stm32f4xx.c.s
 
-CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
-CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.obj: ../Core/Src/usart.c
-CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.obj"
-	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Core\Src\usart.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Core\Src\usart.c.obj -c E:\Creatives\STM32\Screen_Demo\Core\Src\usart.c
-
-CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.i"
-	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Creatives\STM32\Screen_Demo\Core\Src\usart.c > CMakeFiles\Screen_Demo.elf.dir\Core\Src\usart.c.i
-
-CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.s"
-	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Creatives\STM32\Screen_Demo\Core\Src\usart.c -o CMakeFiles\Screen_Demo.elf.dir\Core\Src\usart.c.s
-
 CMakeFiles/Screen_Demo.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj: ../Core/Startup/startup_stm32f411ceux.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building ASM object CMakeFiles/Screen_Demo.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building ASM object CMakeFiles/Screen_Demo.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\Screen_Demo.elf.dir\Core\Startup\startup_stm32f411ceux.s.obj -c E:\Creatives\STM32\Screen_Demo\Core\Startup\startup_stm32f411ceux.s
 
 CMakeFiles/Screen_Demo.elf.dir/Core/Startup/startup_stm32f411ceux.s.i: cmake_force
@@ -252,7 +238,7 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Startup/startup_stm32f411ceux.s.s: cmake_for
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.i: cmake_force
@@ -266,7 +252,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.i: cmake_force
@@ -280,7 +266,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_co
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.i: cmake_force
@@ -294,7 +280,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dm
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.i: cmake_force
@@ -308,7 +294,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dm
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_exti.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_exti.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_exti.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.i: cmake_force
@@ -322,7 +308,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ex
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.i: cmake_force
@@ -336,7 +322,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fl
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ex.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ex.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ex.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.i: cmake_force
@@ -350,7 +336,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fl
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ramfunc.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ramfunc.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ramfunc.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.i: cmake_force
@@ -364,7 +350,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fl
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.i: cmake_force
@@ -378,7 +364,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gp
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c.i: cmake_force
@@ -392,7 +378,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pc
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd_ex.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd_ex.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd_ex.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.i: cmake_force
@@ -406,7 +392,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pc
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.i: cmake_force
@@ -420,7 +406,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pw
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.i: cmake_force
@@ -434,7 +420,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pw
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.i: cmake_force
@@ -448,7 +434,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rc
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.i: cmake_force
@@ -462,7 +448,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rc
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spi.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spi.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spi.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.i: cmake_force
@@ -476,7 +462,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sp
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.i: cmake_force
@@ -490,7 +476,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ti
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.i: cmake_force
@@ -501,24 +487,10 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ti
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.s"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c.s
 
-CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
-CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c
-CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj"
-	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c
-
-CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.i"
-	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c > CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c.i
-
-CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.s"
-	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c.s
-
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_usb.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_usb.c.obj -c E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_usb.c
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.i: cmake_force
@@ -532,7 +504,7 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.obj: ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Src\usbd_cdc.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Src\usbd_cdc.c.obj -c E:\Creatives\STM32\Screen_Demo\Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Src\usbd_cdc.c
 
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.i: cmake_force
@@ -546,7 +518,7 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj: ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_core.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_core.c.obj -c E:\Creatives\STM32\Screen_Demo\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_core.c
 
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.i: cmake_force
@@ -560,7 +532,7 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj: ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c.obj -c E:\Creatives\STM32\Screen_Demo\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c
 
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.i: cmake_force
@@ -574,7 +546,7 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj: ../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c.obj -c E:\Creatives\STM32\Screen_Demo\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c
 
 CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.i: cmake_force
@@ -588,7 +560,7 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.obj: ../USB_DEVICE/App/usb_device.c
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\USB_DEVICE\App\usb_device.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\USB_DEVICE\App\usb_device.c.obj -c E:\Creatives\STM32\Screen_Demo\USB_DEVICE\App\usb_device.c
 
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.i: cmake_force
@@ -602,7 +574,7 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.s: cmake_force
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj: ../USB_DEVICE/App/usbd_cdc_if.c
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\USB_DEVICE\App\usbd_cdc_if.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\USB_DEVICE\App\usbd_cdc_if.c.obj -c E:\Creatives\STM32\Screen_Demo\USB_DEVICE\App\usbd_cdc_if.c
 
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.i: cmake_force
@@ -616,7 +588,7 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.s: cmake_force
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.obj: ../USB_DEVICE/App/usbd_desc.c
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\USB_DEVICE\App\usbd_desc.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\USB_DEVICE\App\usbd_desc.c.obj -c E:\Creatives\STM32\Screen_Demo\USB_DEVICE\App\usbd_desc.c
 
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.i: cmake_force
@@ -630,7 +602,7 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.s: cmake_force
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj: CMakeFiles/Screen_Demo.elf.dir/flags.make
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj: ../USB_DEVICE/Target/usbd_conf.c
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj: CMakeFiles/Screen_Demo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj"
 	"E:\ArmGNU\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj -MF CMakeFiles\Screen_Demo.elf.dir\USB_DEVICE\Target\usbd_conf.c.obj.d -o CMakeFiles\Screen_Demo.elf.dir\USB_DEVICE\Target\usbd_conf.c.obj -c E:\Creatives\STM32\Screen_Demo\USB_DEVICE\Target\usbd_conf.c
 
 CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.i: cmake_force
@@ -654,7 +626,6 @@ Screen_Demo_elf_OBJECTS = \
 "CMakeFiles/Screen_Demo.elf.dir/Core/Src/syscalls.c.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Core/Src/sysmem.c.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Core/Src/system_stm32f4xx.c.obj" \
-"CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj" \
@@ -674,7 +645,6 @@ Screen_Demo_elf_OBJECTS = \
 "CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj" \
-"CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.obj" \
 "CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj" \
@@ -699,7 +669,6 @@ Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Core/Src/stm32f4xx_it.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Core/Src/syscalls.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Core/Src/sysmem.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Core/Src/system_stm32f4xx.c.obj
-Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
@@ -719,7 +688,6 @@ Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
-Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj
@@ -731,7 +699,7 @@ Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/build.make
 Screen_Demo.elf: CMakeFiles/Screen_Demo.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Linking C executable Screen_Demo.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Creatives\STM32\Screen_Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking C executable Screen_Demo.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Screen_Demo.elf.dir\link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building E:/Creatives/STM32/Screen_Demo/cmake-build-debug/Screen_Demo.hex"
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building E:/Creatives/STM32/Screen_Demo/cmake-build-debug/Screen_Demo.bin"

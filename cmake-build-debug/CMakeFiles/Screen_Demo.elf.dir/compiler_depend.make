@@ -38,7 +38,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/GFX_FUNCTIONS.c.obj: ../Core/Src/GFX_FUN
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -76,8 +75,7 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/GFX_FUNCTIONS.c.obj: ../Core/Src/GFX_FUN
   E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/types.h \
   E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
   ../Core/Inc/ST7735.h \
-  ../Core/Inc/GFX_FUNCTIONS.h \
-  ../Core/Inc/usart.h
+  ../Core/Inc/GFX_FUNCTIONS.h
 
 CMakeFiles/Screen_Demo.elf.dir/Core/Src/ST7735.c.obj: ../Core/Src/ST7735.c \
   ../Core/Inc/ST7735.h \
@@ -116,7 +114,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/ST7735.c.obj: ../Core/Src/ST7735.c \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -154,8 +151,7 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/ST7735.c.obj: ../Core/Src/ST7735.c \
   E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/types.h \
   E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
   ../Core/Inc/ST7735.h \
-  ../Core/Inc/GFX_FUNCTIONS.h \
-  ../Core/Inc/usart.h
+  ../Core/Inc/GFX_FUNCTIONS.h
 
 CMakeFiles/Screen_Demo.elf.dir/Core/Src/fonts.c.obj: ../Core/Src/fonts.c \
   ../Core/Inc/fonts.h \
@@ -204,7 +200,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/gpio.c.obj: ../Core/Src/gpio.c \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -242,7 +237,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/gpio.c.obj: ../Core/Src/gpio.c \
   ../Core/Inc/ST7735.h \
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h
 
 CMakeFiles/Screen_Demo.elf.dir/Core/Src/main.c.obj: ../Core/Src/main.c \
@@ -281,7 +275,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/main.c.obj: ../Core/Src/main.c \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -320,10 +313,8 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/main.c.obj: ../Core/Src/main.c \
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Core/Inc/spi.h \
-  ../Core/Inc/usart.h \
   ../USB_DEVICE/App/usb_device.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
   ../USB_DEVICE/Target/usbd_conf.h \
@@ -373,7 +364,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/spi.c.obj: ../Core/Src/spi.c \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -411,7 +401,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/spi.c.obj: ../Core/Src/spi.c \
   ../Core/Inc/ST7735.h \
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h
 
 CMakeFiles/Screen_Demo.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj: ../Core/Src/stm32f4xx_hal_msp.c \
@@ -450,7 +439,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj: ../Core/Src/stm
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -489,7 +477,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj: ../Core/Src/stm
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h
 
 CMakeFiles/Screen_Demo.elf.dir/Core/Src/stm32f4xx_it.c.obj: ../Core/Src/stm32f4xx_it.c \
@@ -528,7 +515,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/stm32f4xx_it.c.obj: ../Core/Src/stm32f4x
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -567,7 +553,6 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/stm32f4xx_it.c.obj: ../Core/Src/stm32f4x
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Core/Inc/stm32f4xx_it.h
 
@@ -671,88 +656,9 @@ CMakeFiles/Screen_Demo.elf.dir/Core/Src/system_stm32f4xx.c.obj: ../Core/Src/syst
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
-
-CMakeFiles/Screen_Demo.elf.dir/Core/Src/usart.c.obj: ../Core/Src/usart.c \
-  ../Core/Inc/usart.h \
-  ../Core/Inc/main.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
-  ../Core/Inc/stm32f4xx_hal_conf.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h \
-  ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
-  ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
-  ../Drivers/CMSIS/Include/core_cm4.h \
-  E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/stdint.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/features.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
-  ../Drivers/CMSIS/Include/cmsis_version.h \
-  ../Drivers/CMSIS/Include/cmsis_compiler.h \
-  ../Drivers/CMSIS/Include/cmsis_gcc.h \
-  ../Drivers/CMSIS/Include/mpu_armv7.h \
-  ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
-  E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/stdlib.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/_ansi.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/newlib.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/config.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/_ansi.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/alloca.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/string.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/strings.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/string.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/stdio.h \
-  E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/types.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/select.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/types.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
-  ../Core/Inc/ST7735.h \
-  ../Core/Inc/fonts.h \
-  E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  ../Core/Inc/usart.h \
-  ../Core/Inc/GFX_FUNCTIONS.h
 
 CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
@@ -789,7 +695,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -829,7 +734,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_co
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -869,7 +773,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dm
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -909,7 +812,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dm
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -949,7 +851,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ex
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -989,7 +890,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fl
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1029,7 +929,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fl
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1069,7 +968,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fl
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1109,7 +1007,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gp
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1149,7 +1046,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pc
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1189,7 +1085,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pc
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1229,7 +1124,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pw
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1269,7 +1163,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pw
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1309,7 +1202,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rc
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1349,7 +1241,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rc
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1389,7 +1280,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sp
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1429,7 +1319,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ti
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1469,47 +1358,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ti
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
-
-CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj: ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
-  ../Core/Inc/stm32f4xx_hal_conf.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h \
-  ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
-  ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
-  ../Drivers/CMSIS/Include/core_cm4.h \
-  E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/stdint.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/features.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
-  E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
-  ../Drivers/CMSIS/Include/cmsis_version.h \
-  ../Drivers/CMSIS/Include/cmsis_compiler.h \
-  ../Drivers/CMSIS/Include/cmsis_gcc.h \
-  ../Drivers/CMSIS/Include/mpu_armv7.h \
-  ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
-  E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1549,7 +1397,6 @@ CMakeFiles/Screen_Demo.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
@@ -1625,7 +1472,6 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -1633,7 +1479,6 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
@@ -1709,7 +1554,6 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -1717,7 +1561,6 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
@@ -1794,7 +1637,6 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -1802,7 +1644,6 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
@@ -1879,7 +1720,6 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -1887,7 +1727,6 @@ CMakeFiles/Screen_Demo.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
@@ -1929,7 +1768,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.obj: ../USB_DEVICE/Ap
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -1971,7 +1809,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usb_device.c.obj: ../USB_DEVICE/Ap
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
@@ -2055,7 +1892,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj: ../USB_DEVICE/A
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -2063,7 +1899,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj: ../USB_DEVICE/A
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
@@ -2138,7 +1973,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.obj: ../USB_DEVICE/App
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -2146,7 +1980,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_desc.c.obj: ../USB_DEVICE/App
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
@@ -2190,7 +2023,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj: ../USB_DEVICE/
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
-  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
   ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -2232,7 +2064,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj: ../USB_DEVICE/
   ../Core/Inc/fonts.h \
   E:/ArmGNU/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   ../Core/Inc/main.h \
-  ../Core/Inc/usart.h \
   ../Core/Inc/GFX_FUNCTIONS.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
   ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
@@ -2351,15 +2182,11 @@ E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/machine/_types.h:
 
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
 
-../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
-
 E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/strings.h:
 
 E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/config.h:
 
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h:
-
-../Core/Src/usart.c:
 
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h:
 
@@ -2404,8 +2231,6 @@ E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h:
 E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/sched.h:
 
 E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/stdio.h:
-
-../Core/Inc/usart.h:
 
 ../Core/Src/fonts.c:
 
@@ -2494,8 +2319,6 @@ E:/ArmGNU/10\ 2021.10/arm-none-eabi/include/sys/time.h:
 ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:
 
 ../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:
-
-../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:
 
 ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:
 

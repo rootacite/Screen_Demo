@@ -277,7 +277,7 @@ static int8_t CDC_Receive_FS(uint8_t* Buf, uint32_t *Len)
   if(point>=40960)
   {
       point=0;
-      ST7735_DrawImage(0, 0, 128, 160, data);
+      ST7735_DrawImage(0, 0, 128, 160, (uint16_t*)data);
   }
   return (USBD_OK);
   /* USER CODE END 6 */

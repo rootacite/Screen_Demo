@@ -71,7 +71,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj: \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr_ex.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_spi.h \
- E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pcd.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_ll_usb.h \
  E:\Creatives\STM32\Screen_Demo\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pcd_ex.h \
@@ -79,7 +78,6 @@ CMakeFiles/Screen_Demo.elf.dir/USB_DEVICE/App/usbd_cdc_if.c.obj: \
  E:\Creatives\STM32\Screen_Demo\Core\Inc/fonts.h \
  e:\armgnu\10\ 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h \
  E:\Creatives\STM32\Screen_Demo\Core\Inc/main.h \
- E:\Creatives\STM32\Screen_Demo\Core\Inc/usart.h \
  E:\Creatives\STM32\Screen_Demo\Core\Inc/GFX_FUNCTIONS.h \
  E:\Creatives\STM32\Screen_Demo\Middlewares\ST\STM32_USB_Device_Library\Core\Inc/usbd_core.h \
  E:\Creatives\STM32\Screen_Demo\Middlewares\ST\STM32_USB_Device_Library\Core\Inc/usbd_ioreq.h \
